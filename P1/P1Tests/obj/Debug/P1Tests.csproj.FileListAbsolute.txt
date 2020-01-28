@@ -1,0 +1,17 @@
+C:\git\AP97982\P1\P1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\git\AP97982\P1\P1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\git\AP97982\P1\P1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\git\AP97982\P1\P1Tests\bin\Debug\P1Tests.dll
+C:\git\AP97982\P1\P1Tests\bin\Debug\P1Tests.pdb
+C:\git\AP97982\P1\P1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\git\AP97982\P1\P1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\git\AP97982\P1\P1Tests\bin\Debug\P1.exe
+C:\git\AP97982\P1\P1Tests\bin\Debug\P1.pdb
+C:\git\AP97982\P1\P1Tests\bin\Debug\P1.exe.config
+C:\git\AP97982\P1\P1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\git\AP97982\P1\P1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\git\AP97982\P1\P1Tests\obj\Debug\P1Tests.csprojAssemblyReference.cache
+C:\git\AP97982\P1\P1Tests\obj\Debug\P1Tests.csproj.CoreCompileInputs.cache
+C:\git\AP97982\P1\P1Tests\obj\Debug\P1Tests.csproj.CopyComplete
+C:\git\AP97982\P1\P1Tests\obj\Debug\P1Tests.dll
+C:\git\AP97982\P1\P1Tests\obj\Debug\P1Tests.pdb
